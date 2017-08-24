@@ -1,0 +1,4 @@
+C:\asp\pruebas\EntityFramMsdnExample\EntityFramMsdnExample\bin\EntityFramMsdnExample.dll
+C:\asp\pruebas\EntityFramMsdnExample\EntityFramMsdnExample\bin\EntityFramMsdnExample.pdb
+C:\asp\pruebas\EntityFramMsdnExample\EntityFramMsdnExample\obj\Debug\EntityFramMsdnExample.dll
+C:\asp\pruebas\EntityFramMsdnExample\EntityFramMsdnExample\obj\Debug\EntityFramMsdnExample.pdb
